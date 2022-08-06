@@ -1,0 +1,7 @@
+08.03.2020
+001 Apple:3.5$
+002 Banana:4.7$
+003 Pineapple:6.2$
+004 Peach:2.4$
+005 Pear:1.1$
+006 Orange:3.9$ 
